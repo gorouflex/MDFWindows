@@ -1,5 +1,4 @@
 # MDFWindows
-Unlocked MDF(Steam version)
 
 Unlocked MDF (Steam version)
 
