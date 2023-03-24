@@ -10,7 +10,7 @@ How to use:
 
 2.Extract
 
-3.Run Dock_64.exe and bang you good to go
+3.Run Dock_64.exe
 
 If want to set icon of MDF to macOS Big Sur download my source code then copy to 'themes' folder
 
